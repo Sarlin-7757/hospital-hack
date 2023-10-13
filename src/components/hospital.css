@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+.topcontainer{
+    font-family: "Inter" , sans-serif;
+}
+.projectCard{
+    margin-top: 50px;
+    /* height: 100vh; */
+    align-items: center;
+
+    /* background-color: blue; */
+}

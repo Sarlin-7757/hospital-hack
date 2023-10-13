@@ -1,0 +1,123 @@
+
+
+.hospital-card {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    align-content: space-around;
+  }
+  
+  .hospital {
+    cursor: pointer;
+    background-color: #1e90ff;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    text-align: center;
+  }
+  
+  .rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  .stars {
+    margin-left: 10px;
+  }
+  
+  .star {
+    font-size: 20px;
+    color: #ffd700; 
+  }
+  
+  .active {
+    color: #f1c40f; 
+  }
+
+  /* .details {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 100%;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-top: none;
+    z-index: 1;
+  }
+
+  .hospital:hover .details {
+    display: block;
+  } */
+
+
+
+
+
+/* HospitalCard.module.css
+
+/* .hospital-card {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-around;
+  }
+  
+  .hospital {
+    background-color: #555371;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  
+  .hospital:hover {
+    transform: scale(1.1);
+  }
+  
+  .rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  .stars {
+    margin-left: 10px;
+  }
+  
+  .star {
+    font-size: 20px;
+    color: #ffd700;
+  }
+  
+  .active {
+    color: #f1c40f;
+  }
+  
+  .details {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 100%;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-top: none;
+    z-index: 1;
+  }
+  
+  .hospital:hover .details {
+    display: block;
+  }
+   */
