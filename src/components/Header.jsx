@@ -11,7 +11,7 @@ const HeaderContainer = styled.header`
 `;
 
 const Header = () => {
-    
+   // this is the header section  
   return (
     <HeaderContainer>
       <h1>heAlthFirst.com</h1>

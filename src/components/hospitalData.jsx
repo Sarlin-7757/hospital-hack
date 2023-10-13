@@ -8,7 +8,7 @@ const hospitalData = ()=>{
                 marginTop:"30px",
                 fontSize:"30px"
             }}>
-                <h1 style={{color:"#fff"}}>Hospitals Nearby</h1>
+                <h1 style={{color:"#fff" , marginLeft:"50px"}}>Hospitals Nearby</h1>
             </div>
             <div className="projectCard">
                 <HospitalsCard />
