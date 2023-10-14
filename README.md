@@ -12,3 +12,9 @@ project created by team 'undefined' during Cyber Cup 3.0 at Amity University, No
 
 ![image](https://github.com/Sarlin-7757/hospital-hack/assets/54243183/62ea5dba-3c8b-4b24-baf1-ef7699586e4d)
 
+## Tech Stack
+
+**Client:** React js, TailwindCSS, Styled Components
+
+**Server:** Supabase, PostresSQL
+
