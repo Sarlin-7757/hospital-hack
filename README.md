@@ -1,4 +1,4 @@
-# heAlthFirst 
+# HeAlthFirst 
 project created by team 'undefined' during Cyber Cup 3.0 at Amity University, Noida.
 ## What is the project about:
 
